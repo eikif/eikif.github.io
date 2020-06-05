@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<html>
 
-You can use the [editor on GitHub](https://github.com/eikif/eikif.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <title>quizside</title>
+  <meta charset = "UTF-8" />
+  <link rel="stylesheet" href="style.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
+ 
+ 
+  <nav>
+    <ul>
+      <li><a href="index.html">home</a></li>
+      <li><a href="lastned.html">dowload</a></li>
+  </ul>
+</nav>
+  <h1>Quiz</h1>
+  
+  <p>in this quiz you can test your skills in geography, history, videogames and science <br> <br></p>
+  <h2>great quarantine entertainment!</h2>
+  <p>Made with over 400 lines of code! <br> <br></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <p>made around here: <br>
+  <br></p>
 
-```markdown
-Syntax highlighted code block
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d257801.58187279434!2d10.182357476607503!3d59.6816807950582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46413e22c1ea7d3d%3A0x292685a9ec9b66a!2sAsker!5e0!3m2!1sno!2sno!4v1591292014123!5m2!1sno!2sno" width="200" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  <p><br>
+  <br>
+<br></p>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdS_5IPk2ARkxPn0tyrE_Wi84ymwkpVS3ah4TvueuYKAiO3oA/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe> -->
+ <p>if ou have tryed the quiz what do you think 1 to five stars?</p>
+<form id="form"  onsubmit="return false;">
+ one  <input type="radio" name="en" value="nummer1">
+ <p><br></p>
+ two  <input type="radio" name="to" value="nummer2">
+ <p><br></p>
+ three  <input type="radio" name="tre" value="nummer3">
+ <p><br></p>
+ four  <input type="radio" name="fire" value="nummer4">
+ <p><br>
+ five  <input type="radio" name="fem" value="nummer5"></p>
+<p><br></p>
+<button type="submit" name="submit"> submit your opinion </button>
+</form>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<p><br><br><br></p>
+ <p>#blacklivesmatter #asianlivesmatter #hispaniclivesmatter #whitelivesmatter #videogamesmatter #weeblivesmatter #lgbtlivesmattter #danielsfeil</p> 
+ <li><a  style="color: black;" href="rickroll.html">#alllivesmatter</a></li>
 
-**Bold** and _Italic_ and `Code` text
+ 
+</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eikif/eikif.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
